@@ -7,8 +7,8 @@
     justify-content:center;
     align-items: center;
     gap: 30px;
-    font-size: 18px;
-    font-weight: -100;
+    font-size: 16px;
+    font-weight: 200;
     font-family:sans-serif;
     flex-wrap: wrap;
 }
@@ -24,13 +24,14 @@
     gap: 80px;
     line-height: 30px;
     flex-wrap: wrap;
+    padding: 0px 10px;
 }
 .footer-link h3{
     font-family: sans-serif;
     font-weight: 400;
 }
 .footer-link h4{
-    font-weight: 550;
+    font-weight: 400;
     color: rgba(0, 0, 0, 0.5);
 }
 .foot1{
@@ -44,7 +45,7 @@
     font-size: 10px;
     background-color: rgba(219, 219, 219, 0.795);
     padding: 5px 0px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     
 }
 
